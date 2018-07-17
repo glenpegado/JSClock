@@ -8,7 +8,7 @@ Digital Clock
 ```
 git clone https://github.com/glenpgd/JSClock.git
 ```
-Opening file in the browser
+  Opening file in the browser:
 ```
 git open clock.html 
 ```
